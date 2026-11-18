@@ -1,6 +1,6 @@
 // Lichaamschemie service worker: bewaart de app-schil voor offline gebruik.
 // Verhoog VERSION bij elke wijziging aan de app, zodat gebruikers de update krijgen.
-const VERSION = 'v1.0.0';
+const VERSION = 'v1.0.1';
 const CACHE = `lichaamschemie-shell-${VERSION}`;
 const SHELL = [
   './',
